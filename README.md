@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @fareezatariq
+- 👀 I’m interested in Android and IOS app development...
+- 🌱 I’m currently learning Android app development (Java/React.js/Kotlin)...
+- 💞️ I’m looking to collaborate on any app development related project...
+
+<!---
+fareezatariq/fareezatariq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
